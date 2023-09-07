@@ -1,0 +1,17 @@
+form{
+   display: flex;
+   gap:1rem;
+   align-items: center;
+}
+
+button{
+    padding:1rem;
+    cursor: pointer;
+}
+
+.ul{
+    margin:1rem;
+    border:2px solid black;
+    list-style: none;
+    padding:1rem;
+}
